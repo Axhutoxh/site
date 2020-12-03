@@ -10,7 +10,7 @@ function Header() {
         <div className='header-container'>
             <video src={Video} autoPlay loop muted />
 
-            <h1>ADVANTURE AWAITS</h1>
+            <h1>ADVENTURE AWAITS</h1>
             <p>What are you waiting for ?</p>
             <div className='header-btn'>
             <Button className='btns' buttonStyle='btn--outline' buttonSize='bt--large'>
